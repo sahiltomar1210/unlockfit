@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Unlock Fit
 
 In order to run this app first run 'npm install' in order install node-modules.
 
